@@ -1,1 +1,1 @@
-#CPH2071
+Vendor for OPPO A12/A11k
